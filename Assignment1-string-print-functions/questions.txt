@@ -1,0 +1,47 @@
+1)	Write a program to accept two numbers from user and print the sum of 2 numbers.
+
+Expected output like below
+Enter the first number20
+Enter the second number30
+Sum of a and b is 50
+
+
+2)	Write a Program that accept first name and last name from user and returns the full name joining first and last names with a space in between.
+
+Expected output like below
+
+
+Enter the first nameMark
+Enter the last nameLutz
+Mark Lutz
+
+
+3)	Write a Program that accepts a string and returns the capitalized(ony first becomes upper case) copy of it.
+
+Hint: use string methods
+
+Expected output like below
+
+Enter any stringpython is good
+Python is good
+
+
+
+4)	Write a Program that accepts a main string and old sub string and a new sub string all as inputs from the user and returns a new string by replacing only first 2 occurrences of the old with the new sub string.
+Hint: use string methods
+
+Expected output like below
+
+Enter the main stringPython’s standard library is very extensive, offering a wide range of facilities as indicated by the long table of contents listed below. The library contains built-in modules (written in C) that provide access to system functionality such as file I/O that would otherwise be inaccessible to Python programmers, as well as modules written in Python that provide standardized solutions for many problems that occur in everyday programming. Some of these modules are explicitly designed to encourage and enhance the portability of Python programs by abstracting away platform-specifics into platform-neutral APIs.
+Enter the old sub stringPython
+Enter the new sub stringJava
+Java’s standard library is very extensive, offering a wide range of facilities as indicated by the long table of contents listed below. The library contains built-in modules (written in C) that provide access to system functionality such as file I/O that would otherwise be inaccessible to Java programmers, as well as modules written in Python that provide standardized solutions for many problems that occur in everyday programming. Some of these modules are explicitly designed to encourage and enhance the portability of Python programs by abstracting away platform-specifics into platform-neutral APIs.
+
+
+5)	Write a Program that declares variable country with value Pakistan and returns a new string Afghanistan.
+
+	First find the starting index of istan substring in Pakistan and
+	Extract that istan slice from country variable and reassign it to the same variable by joining with “Afghan” string
+
+Expected Output:
+Afghanistan

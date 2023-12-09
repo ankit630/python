@@ -1,0 +1,89 @@
+1. Write a Program to display current time using the format from user(according to the format codes for date time in standard C implementation)
+
+Hint: you need to import datetime and find the current time like below
+
+import datetime
+
+current_time = datetime.datetime.now()
+
+Hint: check the format for time specifiers from link
+
+string -- Common string operations -- Python 3.12.0 documentation
+
+Expected output below(1st line actual current time without formatting and second with format specifier)
+
+2023-07-28 11:05:59.383320
+current time is Friday-Jul-23 11-05-59
+
+
+2. Write a program that accepts two numbers from the user i.e. One positive and one negative number and displays the output with + and - signs
+
+Expected output:
+Enter first number is 5
+Enter second number is -7
+The first number you entered is +5
+The second number you entered is -7
+
+
+3. Write a program that accepts floating point zero negative number for the user and displays it as positive zero after rounding
+    off to precision 2.
+
+Expected output below
+
+Enter the number -0.000045
+The number you entered is 0.00
+
+
+4. Write a Program to get the below output
+Hint: use the align from format specifiers
+
+price of item1 is ********30
+price of item2 is *******200
+price of item3 is *****20000
+price of item4 is ****200000
+price of item5 is ***2000000
+price of item6 is **20000000
+price of item7 is *200000000
+price of item8 is 2000000000
+
+
+5. Write a program that accepts a number from the user as input (may be a variable a) and print that number in different 
+formats
+
+Expected output
+
+Enter the number 50
+Value in different format is
+
+decimal 50
+binary 110010
+octal 62
+hexadecimal 32
+
+
+6. Write a program that accepts a number from a user and displays it with , as a thousand separator.
+    
+Expected output
+
+Enter the number 251332
+The number is 251,332
+
+
+7. Write a program to display both the expression text and its value after evaluation like taking 2 input numbers 1 and 2 from users
+into variables a and b and display there sum(value 3) along with expression(a+b)
+
+Expected output
+
+Enter the first number 1
+Enter the second number 2
+The sum of a+b is a+b=3
+
+
+8. Write a program that accepts an input string from a user and checks whether it has all digits
+
+Expected output 
+
+Enter the string 12345
+True
+
+Hint: use the string method to return Boolean
