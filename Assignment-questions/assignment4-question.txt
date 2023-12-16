@@ -1,0 +1,56 @@
+1) Write a program to asks for a sub string and main string from the user and counts the number of occurences of the sub string in the main string
+
+Note:- please use also the continue statement
+
+Expected output:
+Number of occurences of "Python" in
+"PythonPythoni is good. Python supports dynamic typing.Python is used in data analysis"
+is
+4
+
+Enter the main string PythonPython is good. Python supports dynamic typing.Python is used in data analysis
+Enter the sub stringPython
+Number of occurences of "Python" in
+"PythonPython is good. Python supports dynamic typing.Python is used in data analysis." is
+4
+
+
+2) Write a Program to find the factorial of a given number.
+
+Expected output:
+
+enter the number5
+The factorial of 5 is 120
+
+
+
+3) Write a Program to take password as input from the user
+
+Expected output:
+
+Enter the number 789
+The sum of digits of 789 is 24
+
+
+4) Write a Program that asks for
+a) The number of numbers that you want in a list
+b) Space separated numbers(those many numbers as you mentioned below)
+
+Start a loop(repeat execution as the number of numberds) and accept the numbers one after the other and finally print the average of numbers
+
+Note:- Don't use map function
+
+Expected output
+Enter how many numbers you want in the list 4
+Enter the numbers 2 4 6 8
+Average of the numbers in the list['2','4','6','8'] is 5.0
+
+
+
+5) Write a Program that takes a space separated list of words and prints the longest word. 
+Expected output:
+
+enter the words 
+hello hi python
+
+The longest word is python
