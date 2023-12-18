@@ -1,0 +1,58 @@
+1) Write a Program to find all the indices of a value in the list
+
+Expected output
+
+If input_list = [1,2,3,4,2,'h','e','l','l','o','2','0','0',100,200,'200','300',[300,400],'300']
+output:
+indices of '300'
+16,18
+
+
+2) Write a Program to find longest word in a list of words
+
+
+if input_list = ["Hello","Hi","Bye","hello","Python"]
+Expected output:
+
+Python
+
+
+3) Write a Program that accepts name and salary of an employee from a dictionary and return the sum of salaries
+
+if input_dict = {"Ram":10000,"Shyam":20000,"Mark":40000}
+
+Expected output:
+
+Sum of salaries is 70000
+
+Note: input_dict here is just for an example, you can try with different inputs.
+
+
+
+4) Write a Program to calculate the total number of items bought by all guests.
+
+Take below nested dictionary as input
+
+allguests = {
+	"Mark":{"icecreams":4,"cool drinks":5},
+	"Ram":{"icecreams":6,"cool drinks":2},
+	"Shyam":{"icecreams":7,"cool drinks":3}
+}
+
+Expected output:
+
+{'icecreams':17,'cool drinks':10}
+
+
+
+
+5) Write a program to print a Diamond Pattern based on the number given by the user as input. If user gives number as 3 then
+
+Expected output
+
+  *
+ * *
+* * *
+ * *
+  *
+
